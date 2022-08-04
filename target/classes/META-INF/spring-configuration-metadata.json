@@ -1,0 +1,1 @@
+{"groups":[{"name":"cassandra.*","type":"com.target.infrastructure.cassendra.CassandraConfiguration"}]}

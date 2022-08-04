@@ -1,0 +1,12 @@
+C:\Users\pcped\JavaPrograms\location-read-v1\src\main\java\com\target\infrastructure\rest\ProductNameReadRepository.java
+C:\Users\pcped\JavaPrograms\location-read-v1\src\main\java\com\target\Application.java
+C:\Users\pcped\JavaPrograms\location-read-v1\src\main\java\com\target\infrastructure\rest\ProductClient.java
+C:\Users\pcped\JavaPrograms\location-read-v1\src\main\java\com\target\model\ProductPrice.java
+C:\Users\pcped\JavaPrograms\location-read-v1\src\main\java\com\target\exception\ProductNotFoundException.java
+C:\Users\pcped\JavaPrograms\location-read-v1\src\main\java\com\target\infrastructure\cassendra\ProductPriceWriteRepository.java
+C:\Users\pcped\JavaPrograms\location-read-v1\src\main\java\com\target\infrastructure\cassendra\CassandraConfiguration.java
+C:\Users\pcped\JavaPrograms\location-read-v1\src\main\java\com\target\service\ProductService.java
+C:\Users\pcped\JavaPrograms\location-read-v1\src\main\java\com\target\infrastructure\cassendra\CassandraSessionFactory.java
+C:\Users\pcped\JavaPrograms\location-read-v1\src\main\java\com\target\model\Product.java
+C:\Users\pcped\JavaPrograms\location-read-v1\src\main\java\com\target\controller\RestController.java
+C:\Users\pcped\JavaPrograms\location-read-v1\src\main\java\com\target\infrastructure\cassendra\ProductPriceReadRepository.java
